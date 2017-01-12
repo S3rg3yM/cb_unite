@@ -38,7 +38,7 @@ public class CustomColorPicker extends FrameLayout {
         mColors = buildHueColorArray();
         _trackerWidth = 5;
         _trackerColor = Color.WHITE;
-        _trackerPadding = 3;
+        _trackerPadding = 5;
     }
 
     private int[] buildHueColorArray()
